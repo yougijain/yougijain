@@ -1,7 +1,7 @@
 ## Hi, I'm Yougi 👋
 
 🎓 Psychology & Informatics student @ [UMass Amherst](https://www.instagram.com/umass/)<br>
-🧠 Exploring the intersection of AI and human consciousness<br>
+🧠 Exploring the intersection of AI and the human consciousness<br>
 💻 Working on NLP, mental health detection, and real-time web apps<br>
 📬 Contact: [yougijain@gmail.com](mailto:yougijain@gmail.com)<br>
 
